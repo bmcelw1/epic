@@ -1,106 +1,29 @@
-<urlset xmlns="https://urldefense.com/v3/__http://www.sitemaps.org/schemas/sitemap/0.9__;!!NdvbFbq-!u9dBjeJufVLtIqziqe99T3nRao5dAiRAJaWwM7YisD6TTFJ8xuxHJfw86TaQzhyKm8PoZWFjsUJgIMsZ5BSYctbn_Ko$ " xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 https://urldefense.com/v3/__http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd__;!!NdvbFbq-!u9dBjeJufVLtIqziqe99T3nRao5dAiRAJaWwM7YisD6TTFJ8xuxHJfw86TaQzhyKm8PoZWFjsUJgIMsZ5BSYSLZpGQI$ ">
-<url>
-<loc>https://epicloansystems.com/ </loc>
-<priority>1.00</priority>
-</url>
-<url>
-<loc>https://epicloansystems.com/solutions-overview </loc>
-<priority>0.80</priority>
-</url>
-<url>
-<loc>https://epicloansystems.com/apis </loc>
-<priority>0.80</priority>
-</url>
-<url>
-<loc>https://epicloansystems.com/loan-management-system </loc>
-<priority>0.80</priority>
-</url>
-<url>
-<loc>https://epicloansystems.com/external-decision-engine </loc>
-<priority>0.80</priority>
-</url>
-<url>
-<loc>https://epicloansystems.com/reporting-data-access </loc>
-<priority>0.80</priority>
-</url>
-<url>
-<loc>https://epicloansystems.com/essentials </loc>
-<priority>0.80</priority>
-</url>
-<url>
-<loc>https://epicloansystems.com/loan-types-overview </loc>
-<priority>0.80</priority>
-</url>
-<url>
-<loc>https://epicloansystems.com/online-loan-software </loc>
-<priority>0.80</priority>
-</url>
-<url>
-<loc>https://epicloansystems.com/installment-loan-software </loc>
-<priority>0.80</priority>
-</url>
-<url>
-<loc>https://epicloansystems.com/payday-loan-software </loc>
-<priority>0.80</priority>
-</url>
-<url>
-<loc>https://epicloansystems.com/cso-cab-loan-software </loc>
-<priority>0.80</priority>
-</url>
-<url>
-<loc>https://epicloansystems.com/tribal-lending-software </loc>
-<priority>0.80</priority>
-</url>
-<url>
-<loc>https://epicloansystems.com/about-us </loc>
-<priority>0.80</priority>
-</url>
-<url>
-<loc>https://epicloansystems.com/careers </loc>
-<priority>0.80</priority>
-</url>
-<url>
-<loc>https://epicloansystems.com/blog </loc>
-<priority>0.80</priority>
-</url>
-<url>
-<loc>https://epicloansystems.com/contact-us </loc>
-<priority>0.80</priority>
-</url>
-<url>
-<loc>https://epicloansystems.com/demo </loc>
-<priority>0.80</priority>
-</url>
-<url>
-<loc>https://epicloansystems.com/faq </loc>
-<priority>0.80</priority>
-</url>
-<url>
-<loc>https://epicloansystems.com/privacy-policy </loc>
-<priority>0.80</priority>
-</url>
-<url>
-<loc>https://epicloansystems.com/payroll-deduction-loan-software </loc>
-<priority>0.64</priority>
-</url>
-<url>
-<loc>https://epicloansystems.com/post/how-to-simplify-cfpb-lending-rule-compliance-2025 </loc>
-<priority>0.64</priority>
-</url>
-<url>
-<loc>https://epicloansystems.com/post/One-to-One-Consent-Rule </loc>
-<priority>0.64</priority>
-</url>
-<url>
-<loc>https://epicloansystems.com/terms-of-service </loc>
-<priority>0.64</priority>
-</url>
-<url>
-<loc>https://epicloansystems.com/cookies-policy </loc>
-<priority>0.64</priority>
-</url>
-<url>
-<loc>https://epicloansystems.com/acceptable-use-policy </loc>
-<priority>0.64</priority>
-</url>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://epicloansystems.com/</loc><priority>1.00</priority></url>
+  <url><loc>https://epicloansystems.com/solutions-overview</loc><priority>0.80</priority></url>
+  <url><loc>https://epicloansystems.com/apis</loc><priority>0.80</priority></url>
+  <url><loc>https://epicloansystems.com/loan-management-system</loc><priority>0.80</priority></url>
+  <url><loc>https://epicloansystems.com/external-decision-engine</loc><priority>0.80</priority></url>
+  <url><loc>https://epicloansystems.com/reporting-data-access</loc><priority>0.80</priority></url>
+  <url><loc>https://epicloansystems.com/essentials</loc><priority>0.80</priority></url>
+  <url><loc>https://epicloansystems.com/loan-types-overview</loc><priority>0.80</priority></url>
+  <url><loc>https://epicloansystems.com/online-loan-software</loc><priority>0.80</priority></url>
+  <url><loc>https://epicloansystems.com/installment-loan-software</loc><priority>0.80</priority></url>
+  <url><loc>https://epicloansystems.com/payday-loan-software</loc><priority>0.80</priority></url>
+  <url><loc>https://epicloansystems.com/cso-cab-loan-software</loc><priority>0.80</priority></url>
+  <url><loc>https://epicloansystems.com/tribal-lending-software</loc><priority>0.80</priority></url>
+  <url><loc>https://epicloansystems.com/about-us</loc><priority>0.80</priority></url>
+  <url><loc>https://epicloansystems.com/careers</loc><priority>0.80</priority></url>
+  <url><loc>https://epicloansystems.com/blog</loc><priority>0.80</priority></url>
+  <url><loc>https://epicloansystems.com/contact-us</loc><priority>0.80</priority></url>
+  <url><loc>https://epicloansystems.com/demo</loc><priority>0.80</priority></url>
+  <url><loc>https://epicloansystems.com/faq</loc><priority>0.80</priority></url>
+  <url><loc>https://epicloansystems.com/privacy-policy</loc><priority>0.80</priority></url>
+  <url><loc>https://epicloansystems.com/payroll-deduction-loan-software</loc><priority>0.64</priority></url>
+  <url><loc>https://epicloansystems.com/post/how-to-simplify-cfpb-lending-rule-compliance-2025</loc><priority>0.64</priority></url>
+  <url><loc>https://epicloansystems.com/post/One-to-One-Consent-Rule</loc><priority>0.64</priority></url>
+  <url><loc>https://epicloansystems.com/terms-of-service</loc><priority>0.64</priority></url>
+  <url><loc>https://epicloansystems.com/cookies-policy</loc><priority>0.64</priority></url>
+  <url><loc>https://epicloansystems.com/acceptable-use-policy</loc><priority>0.64</priority></url>
 </urlset>
